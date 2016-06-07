@@ -1,5 +1,7 @@
 # platformio-test
 
+[![Build Status](https://travis-ci.org/glynhudson/platformio-test.svg?branch=master)](https://travis-ci.org/glynhudson/platformio-test)
+
     pip install platformio
 
 ## Show supported boards:
