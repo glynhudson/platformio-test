@@ -32,7 +32,12 @@ cache:
  directories:
      - "~/.platformio"
 install:
- - pip install -U platformio
+ - pip install -U platformio 
+ - platformio lib install 252 #jeelib 
+ - platformio lib install 19 #dht22
+ - platformio lib install 252 #dallas
+
+
 script:
  - platformio run
 
