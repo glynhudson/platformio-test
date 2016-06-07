@@ -35,3 +35,6 @@ dht22:
 Dallas
 
     platformio lib install 252
+
+emonlib
+        platformio lib install 116
